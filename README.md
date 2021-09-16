@@ -20,11 +20,12 @@ I also like 🍕 ☕️ 🎸 Not necessarily in that order.
    <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
    <img height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
    <img align="right" height="150" width="300" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif">
+  ![Snake animation](https://github.com/caffeineandpizza/caffeineandpizza/blob/output/github-contribution-grid-snake.svg)
 </div>  
   
  ##
   
-   <div>
-     ![Snake animation](https://github.com/caffeineandpizza/caffeineandpizza/blob/output/github-contribution-grid-snake.svg)
-  </div>
+   
+     
+ 
  
